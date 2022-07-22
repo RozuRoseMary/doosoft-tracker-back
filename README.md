@@ -2,9 +2,8 @@
 
 FRONT-END : https://github.com/RozuRoseMary/doosoft-tracker-front
 
-# env
+# Getting start
 
-1. PORT
-2. JWT_SECRET_KEY
-3. JWT_EXPIRES_IN
-4. CLOUDINARY_URL
+1. npm i
+2. In file config.json, the password must change to password of your database
+3. npm start
